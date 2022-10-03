@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA8BEA36-FE3F-45FF-937C-D7887D5FA195"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ATMVCB/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - bc7a1c00a3c29231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.lblThongBao.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - 4acf383744734b25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.lblThongBao.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - 5a82d20071e0876"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.lblThongBao.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - a6ed9f9f396f623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.lblThongBao.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - be5a945f9fef33c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ATMVCB.ViewController"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "FDAB2245-49EA-4420-B14D-03E194625A4D - 6877a2f19a817d1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATMVCB.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ATMVCB.ViewController&gt;"
+                  moduleName = "ATMVCB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/duongvancuong/Desktop/Swift/ATMVCB/ATMVCB/ATMVCB/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
